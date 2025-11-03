@@ -1,0 +1,7 @@
+title: "Roxana Barrios Rosales"
+description: "Mathematics PhD • smFRET • Bayesian inference • Teaching"
+
+# Modernist theme setup
+remote_theme: pages-themes/modernist@v0.2.0
+plugins:
+  - jekyll-remote-theme
